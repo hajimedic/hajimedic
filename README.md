@@ -1,7 +1,7 @@
 <!--
 ### Hi there 👋
 
-**h-oizumi/h-oizumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hajimedic/hajimedic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="left"> 
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=h-oizumi&count_private=true&show_icons=true&theme=gruvbox" height="150px" />
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-oizumi&layout=compact&count_private=true&theme=gruvbox" height="150px" />
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hajimedic&count_private=true&show_icons=true&theme=gruvbox" height="150px" />
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajimedic&layout=compact&count_private=true&theme=gruvbox" height="150px" />
 </p>
