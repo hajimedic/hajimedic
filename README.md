@@ -20,6 +20,8 @@ Here are some ideas to get you started:
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajimedic&layout=compact&count_private=true&theme=gruvbox" height="150px" />
 </p>
 
+<details><summary>(WIP) Resume</summary>
+
 ```mermaid
 ---
 title: (WIP) Resume
@@ -81,3 +83,4 @@ commit id:"ECサイトのメンテナンス"
 commit id:"開発体制のメンテナンス"
 
 ```
+</details>
