@@ -52,6 +52,7 @@ commit id:"rakumo 管理画面のお知らせ機能の開発" tag:"Python, GCP, 
 commit id:"いろいろ機能追加開発など"
 commit id:"rakumo ケイヒ 開発" tag:"非同期処理とか"
 commit id:"ケイヒ の拡張とか"
+commit id:"電子帳簿保存法対応"
 commit id:"rakumo キンタイ 開発" tag:"パフォーマンスチューニングとか"
 commit id:"キンタイ の拡張とか" 
 commit id:"2023-05 退職"
