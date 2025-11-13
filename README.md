@@ -82,6 +82,12 @@ commit id:"2025-01 CoLife 入社" tag:"AWS, Git"
 branch CoLife
 commit id:"ECサイトのメンテナンス"
 commit id:"開発体制のメンテナンス"
+commit id:"2025-10 退職"
+checkout main
+commit id:"2025-10 Bengo4.com 入社" tag:"PHP, Git"
+branch Bengo4.com
+commit id:"開発業務キャッチアップ"
+
 
 ```
 </details>
